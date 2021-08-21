@@ -1,0 +1,305 @@
+2021-08-13T17:59:28.335+0800	info	log/log_test.go:77	both console and file
+2021-08-13T19:37:39.567+0800	info	log/log_test.go:78	this is info log
+2021-08-13T19:37:39.568+0800	info	log/log_test.go:79	this is infof log info
+2021-08-13T19:37:39.568+0800	warn	log/log_test.go:80	this is warn log
+2021-08-13T19:37:39.568+0800	warn	log/log_test.go:81	this is warnf log warn
+2021-08-13T19:37:39.568+0800	error	log/log_test.go:82	this is error log
+2021-08-13T19:37:39.568+0800	error	log/log_test.go:83	this is errorf log error
+2021-08-13T19:38:39.979+0800	info	log/log_test.go:78	this is info log
+2021-08-13T19:38:39.979+0800	info	log/log_test.go:79	this is infof log info
+2021-08-13T19:38:39.979+0800	warn	log/log_test.go:80	this is warn log
+2021-08-13T19:38:39.979+0800	warn	log/log_test.go:81	this is warnf log warn
+2021-08-13T19:38:39.979+0800	error	log/log_test.go:82	this is error log
+2021-08-13T19:38:39.979+0800	error	log/log_test.go:83	this is errorf log error
+2021-08-13T19:38:39.979+0800	fatal	log/log_test.go:84	this is fatal log
+2021-08-13T21:52:43.244+0800	info	log/log_test.go:78	this is info log
+2021-08-13T21:52:43.245+0800	info	log/log_test.go:79	this is infof log info
+2021-08-13T21:52:43.245+0800	warn	log/log_test.go:80	this is warn log
+2021-08-13T21:52:43.245+0800	warn	log/log_test.go:81	this is warnf log warn
+2021-08-13T21:52:43.245+0800	error	log/log_test.go:82	this is error log
+2021-08-13T21:52:43.245+0800	error	log/log_test.go:83	this is errorf log error
+2021-08-13T21:52:43.245+0800	fatal	log/log_test.go:84	this is fatal log
+2021-08-13T22:13:12.390+0800	info	log/log_test.go:78	this is info log
+2021-08-13T22:13:12.390+0800	info	log/log_test.go:79	this is infof log info
+2021-08-13T22:13:12.391+0800	warn	log/log_test.go:80	this is warn log
+2021-08-13T22:13:12.391+0800	warn	log/log_test.go:81	this is warnf log warn
+2021-08-13T22:13:12.391+0800	error	log/log_test.go:82	this is error log
+2021-08-13T22:13:12.391+0800	error	log/log_test.go:83	this is errorf log error
+2021-08-13T22:13:12.391+0800	info	testing/testing.go:1050	haha	{"uid": "june", "age": "18"}
+2021-08-13T22:32:44.518+0800	info	log/log.go:60	this is info log
+2021-08-13T22:32:44.518+0800	info	log/log.go:65	this is infof log info
+2021-08-13T22:32:44.518+0800	warn	log/log.go:70	this is warn log
+2021-08-13T22:32:44.518+0800	warn	log/log.go:75	this is warnf log warn
+2021-08-13T22:32:44.518+0800	error	log/log.go:81	this is error log
+2021-08-13T22:32:44.518+0800	error	log/log.go:86	this is errorf log error
+2021-08-13T22:33:15.652+0800	info	log/log.go:60	this is info log
+2021-08-13T22:33:15.652+0800	info	log/log.go:65	this is infof log info
+2021-08-13T22:33:15.652+0800	warn	log/log.go:70	this is warn log
+2021-08-13T22:33:15.652+0800	warn	log/log.go:75	this is warnf log warn
+2021-08-13T22:33:15.652+0800	error	log/log.go:81	this is error log
+2021-08-13T22:33:15.652+0800	error	log/log.go:86	this is errorf log error
+2021-08-13T22:33:34.493+0800	info	log/log_test.go:70	this is info log
+2021-08-13T22:33:34.493+0800	info	log/log_test.go:71	this is infof log info
+2021-08-13T22:33:34.493+0800	warn	log/log_test.go:72	this is warn log
+2021-08-13T22:33:34.493+0800	warn	log/log_test.go:73	this is warnf log warn
+2021-08-13T22:33:34.493+0800	error	log/log_test.go:74	this is error log
+2021-08-13T22:33:34.493+0800	error	log/log_test.go:75	this is errorf log error
+2021-08-13T22:37:46.785+0800	info	log/log_test.go:70	this is info log
+2021-08-13T22:37:46.785+0800	info	log/log_test.go:71	this is infof log info
+2021-08-13T22:37:46.785+0800	warn	log/log_test.go:72	this is warn log
+2021-08-13T22:37:46.785+0800	warn	log/log_test.go:73	this is warnf log warn
+2021-08-13T22:37:46.785+0800	error	log/log_test.go:74	this is error log
+2021-08-13T22:37:46.785+0800	error	log/log_test.go:75	this is errorf log error
+2021-08-13T22:38:17.628+0800	info	log/log_test.go:70	this is info log
+2021-08-13T22:38:17.628+0800	info	log/log_test.go:71	this is infof log info
+2021-08-13T22:38:17.628+0800	warn	log/log_test.go:72	this is warn log
+2021-08-13T22:38:17.628+0800	warn	log/log_test.go:73	this is warnf log warn
+2021-08-13T22:38:17.628+0800	error	log/log_test.go:74	this is error log
+2021-08-13T22:38:17.628+0800	error	log/log_test.go:75	this is errorf log error
+2021-08-13T22:38:17.628+0800	info	testing/testing.go:1050	haha	{"uin": "june", "age": "20"}
+2021-08-13T22:38:53.158+0800	info	testing/testing.go:1050	this is info log
+2021-08-13T22:38:53.158+0800	info	testing/testing.go:1050	this is infof log info
+2021-08-13T22:38:53.158+0800	warn	testing/testing.go:1050	this is warn log
+2021-08-13T22:38:53.158+0800	warn	testing/testing.go:1050	this is warnf log warn
+2021-08-13T22:38:53.158+0800	error	testing/testing.go:1050	this is error log
+2021-08-13T22:38:53.158+0800	error	testing/testing.go:1050	this is errorf log error
+2021-08-13T22:38:53.158+0800	info	runtime/asm_amd64.s:1373	haha	{"uin": "june", "age": "20"}
+2021-08-13T22:38:59.207+0800	info	log/log.go:60	this is info log
+2021-08-13T22:38:59.207+0800	info	log/log.go:65	this is infof log info
+2021-08-13T22:38:59.207+0800	warn	log/log.go:70	this is warn log
+2021-08-13T22:38:59.207+0800	warn	log/log.go:75	this is warnf log warn
+2021-08-13T22:38:59.207+0800	error	log/log.go:81	this is error log
+2021-08-13T22:38:59.207+0800	error	log/log.go:86	this is errorf log error
+2021-08-13T22:38:59.207+0800	info	log/log_test.go:78	haha	{"uin": "june", "age": "20"}
+2021-08-13T22:50:11.208+0800	info	log/log_test.go:70	this is info log
+2021-08-13T22:50:11.208+0800	info	log/log_test.go:71	this is infof log info
+2021-08-13T22:50:11.208+0800	warn	log/log_test.go:72	this is warn log
+2021-08-13T22:50:11.208+0800	warn	log/log_test.go:73	this is warnf log warn
+2021-08-13T22:50:11.208+0800	error	log/log_test.go:74	this is error log
+2021-08-13T22:50:11.208+0800	error	log/log_test.go:75	this is errorf log error
+2021-08-13T22:50:11.208+0800	info	log/log_test.go:78	haha	{"uin": "june", "age": "20"}
+2021-08-13T22:50:15.902+0800	info	log/log_test.go:70	this is info log
+2021-08-13T22:50:15.902+0800	info	log/log_test.go:71	this is infof log info
+2021-08-13T22:50:15.903+0800	warn	log/log_test.go:72	this is warn log
+2021-08-13T22:50:15.903+0800	warn	log/log_test.go:73	this is warnf log warn
+2021-08-13T22:50:15.903+0800	error	log/log_test.go:74	this is error log
+2021-08-13T22:50:15.903+0800	error	log/log_test.go:75	this is errorf log error
+2021-08-13T22:50:15.903+0800	info	log/log_test.go:78	haha	{"uin": "june", "age": "20"}
+2021-08-13T22:50:54.249+0800	info	log/log_test.go:70	this is info log
+2021-08-13T22:50:54.249+0800	info	log/log_test.go:71	this is infof log info
+2021-08-13T22:50:54.249+0800	warn	log/log_test.go:72	this is warn log
+2021-08-13T22:50:54.249+0800	warn	log/log_test.go:73	this is warnf log warn
+2021-08-13T22:50:54.249+0800	error	log/log_test.go:74	this is error log
+2021-08-13T22:50:54.249+0800	error	log/log_test.go:75	this is errorf log error
+2021-08-13T22:50:54.249+0800	info	log/log_test.go:78	haha	{"uin": "june", "age": "20"}
+2021-08-13T22:50:54.249+0800	info	log/log_test.go:80	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-13T23:36:04.322+0800	info	log/log_test.go:71	this is info log
+2021-08-13T23:36:04.322+0800	info	log/log_test.go:72	this is infof log info
+2021-08-13T23:36:04.322+0800	warn	log/log_test.go:73	this is warn log
+2021-08-13T23:36:04.322+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-13T23:36:04.322+0800	error	log/log_test.go:75	this is error log
+2021-08-13T23:36:04.322+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-13T23:36:04.322+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-13T23:36:04.322+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-13T23:50:05.450+0800	info	log/log_test.go:71	this is info log
+2021-08-13T23:50:05.450+0800	info	log/log_test.go:72	this is infof log info
+2021-08-13T23:50:05.450+0800	warn	log/log_test.go:73	this is warn log
+2021-08-13T23:50:05.450+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-13T23:50:05.450+0800	error	log/log_test.go:75	this is error log
+2021-08-13T23:50:05.450+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-13T23:50:05.450+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-13T23:50:05.450+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-13T23:52:01.905+0800	info	log/log_test.go:71	this is info log
+2021-08-13T23:52:01.905+0800	info	log/log_test.go:72	this is infof log info
+2021-08-13T23:52:01.905+0800	warn	log/log_test.go:73	this is warn log
+2021-08-13T23:52:01.905+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-13T23:52:01.905+0800	error	log/log_test.go:75	this is error log
+2021-08-13T23:52:01.905+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-13T23:52:01.905+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-13T23:52:01.905+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-13T23:53:24.946+0800	info	log/log_test.go:71	this is info log
+2021-08-13T23:53:24.946+0800	info	log/log_test.go:72	this is infof log info
+2021-08-13T23:53:24.946+0800	warn	log/log_test.go:73	this is warn log
+2021-08-13T23:53:24.946+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-13T23:53:24.946+0800	error	log/log_test.go:75	this is error log
+2021-08-13T23:53:24.946+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-13T23:53:24.946+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-13T23:53:24.946+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-13T23:56:09.776+0800	info	log/log_test.go:71	this is info log
+2021-08-13T23:56:09.776+0800	info	log/log_test.go:72	this is infof log info
+2021-08-13T23:56:09.776+0800	warn	log/log_test.go:73	this is warn log
+2021-08-13T23:56:09.776+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-13T23:56:09.776+0800	error	log/log_test.go:75	this is error log
+2021-08-13T23:56:09.776+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-13T23:56:09.777+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-13T23:56:09.777+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-13T23:59:14.900+0800	info	log/log_test.go:71	this is info log
+2021-08-13T23:59:14.900+0800	info	log/log_test.go:72	this is infof log info
+2021-08-13T23:59:14.900+0800	warn	log/log_test.go:73	this is warn log
+2021-08-13T23:59:14.900+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-13T23:59:14.900+0800	error	log/log_test.go:75	this is error log
+2021-08-13T23:59:14.900+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-13T23:59:14.900+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-13T23:59:14.900+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-14T00:09:32.268+0800	info	log/log_test.go:71	this is info log
+2021-08-14T00:09:32.268+0800	info	log/log_test.go:72	this is infof log info
+2021-08-14T00:09:32.268+0800	warn	log/log_test.go:73	this is warn log
+2021-08-14T00:09:32.268+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-14T00:09:32.268+0800	error	log/log_test.go:75	this is error log
+2021-08-14T00:09:32.268+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-14T00:09:32.268+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-14T00:09:32.268+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-14T00:09:59.547+0800	info	log/log_test.go:71	this is info log
+2021-08-14T00:09:59.547+0800	info	log/log_test.go:72	this is infof log info
+2021-08-14T00:09:59.547+0800	warn	log/log_test.go:73	this is warn log
+2021-08-14T00:09:59.547+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-14T00:09:59.547+0800	error	log/log_test.go:75	this is error log
+2021-08-14T00:09:59.547+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-14T00:09:59.547+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-14T00:09:59.547+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-14T00:40:09.292+0800	info	log/log_test.go:71	this is info log
+2021-08-14T00:40:09.292+0800	info	log/log_test.go:72	this is infof log info
+2021-08-14T00:40:09.292+0800	warn	log/log_test.go:73	this is warn log
+2021-08-14T00:40:09.292+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-14T00:40:09.292+0800	error	log/log_test.go:75	this is error log
+2021-08-14T00:40:09.292+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-14T00:40:09.292+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-14T00:40:09.292+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-14T00:54:05.740+0800	info	log/log_test.go:71	this is info log
+2021-08-14T00:54:05.740+0800	info	log/log_test.go:72	this is infof log info
+2021-08-14T00:54:05.740+0800	warn	log/log_test.go:73	this is warn log
+2021-08-14T00:54:05.740+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-14T00:54:05.740+0800	error	log/log_test.go:75	this is error log
+2021-08-14T00:54:05.740+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-14T00:54:05.740+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-14T00:54:05.740+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-15T16:44:44.341+0800	info	log/log_test.go:71	this is info log
+2021-08-15T16:44:44.341+0800	info	log/log_test.go:72	this is infof log info
+2021-08-15T16:44:44.341+0800	warn	log/log_test.go:73	this is warn log
+2021-08-15T16:44:44.341+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-15T16:44:44.341+0800	error	log/log_test.go:75	this is error log
+2021-08-15T16:44:44.341+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-15T16:44:44.341+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-15T16:44:44.341+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-15T16:45:45.034+0800	info	log/log_test.go:71	this is info log
+2021-08-15T16:45:45.034+0800	info	log/log_test.go:72	this is infof log info
+2021-08-15T16:45:45.034+0800	warn	log/log_test.go:73	this is warn log
+2021-08-15T16:45:45.034+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-15T16:45:45.034+0800	error	log/log_test.go:75	this is error log
+2021-08-15T16:45:45.034+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-15T16:45:45.034+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-15T16:45:45.034+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-15T16:47:47.278+0800	info	log/log_test.go:71	this is info log
+2021-08-15T16:47:47.278+0800	info	log/log_test.go:72	this is infof log info
+2021-08-15T16:47:47.278+0800	warn	log/log_test.go:73	this is warn log
+2021-08-15T16:47:47.278+0800	warn	log/log_test.go:74	this is warnf log warn
+2021-08-15T16:47:47.278+0800	error	log/log_test.go:75	this is error log
+2021-08-15T16:47:47.278+0800	error	log/log_test.go:76	this is errorf log error
+2021-08-15T16:47:47.278+0800	info	log/log_test.go:79	haha	{"uin": "june", "age": "20"}
+2021-08-15T16:47:47.278+0800	info	log/log_test.go:81	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-15T17:00:34.406+0800	info	log/log_test.go:72	this is info log
+2021-08-15T17:00:34.406+0800	info	log/log_test.go:73	this is infof log info
+2021-08-15T17:00:34.406+0800	warn	log/log_test.go:74	this is warn log
+2021-08-15T17:00:34.406+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-15T17:00:34.406+0800	error	log/log_test.go:76	this is error log
+2021-08-15T17:00:34.406+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-15T17:00:34.406+0800	info	log/log_test.go:80	haha	{"uin": "june", "age": "20"}
+2021-08-15T17:00:34.406+0800	info	log/log_test.go:82	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-15T17:00:44.767+0800	info	log/log_test.go:72	this is info log
+2021-08-15T17:00:44.767+0800	info	log/log_test.go:73	this is infof log info
+2021-08-15T17:00:44.767+0800	warn	log/log_test.go:74	this is warn log
+2021-08-15T17:00:44.767+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-15T17:00:44.767+0800	error	log/log_test.go:76	this is error log
+2021-08-15T17:00:44.767+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-15T17:00:44.767+0800	info	log/log_test.go:80	haha	{"uin": "june", "age": "20"}
+2021-08-15T17:00:44.767+0800	info	log/log_test.go:82	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-16T16:55:31.890+0800	info	log/log_test.go:72	this is info log
+2021-08-16T16:55:31.891+0800	info	log/log_test.go:73	this is infof log info
+2021-08-16T16:55:31.891+0800	warn	log/log_test.go:74	this is warn log
+2021-08-16T16:55:31.891+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-16T16:55:31.891+0800	error	log/log_test.go:76	this is error log
+2021-08-16T16:55:31.891+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-16T16:55:31.891+0800	info	log/log_test.go:80	haha	{"uin": "june", "age": "20"}
+2021-08-16T16:55:31.891+0800	info	log/log_test.go:82	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-20T19:58:25.347+0800	info	log/log_test.go:72	this is info log
+2021-08-20T19:58:25.347+0800	info	log/log_test.go:73	this is infof log info
+2021-08-20T19:58:25.347+0800	warn	log/log_test.go:74	this is warn log
+2021-08-20T19:58:25.347+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-20T19:58:25.347+0800	error	log/log_test.go:76	this is error log
+2021-08-20T19:58:25.347+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-20T19:58:25.347+0800	info	testing/testing.go:1050	haha	{"uin": "june", "age": "20"}
+2021-08-20T19:58:25.347+0800	info	testing/testing.go:1050	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-20T19:58:31.458+0800	info	log/log_test.go:72	this is info log
+2021-08-20T19:58:31.458+0800	info	log/log_test.go:73	this is infof log info
+2021-08-20T19:58:31.458+0800	warn	log/log_test.go:74	this is warn log
+2021-08-20T19:58:31.458+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-20T19:58:31.459+0800	error	log/log_test.go:76	this is error log
+2021-08-20T19:58:31.459+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-20T19:58:31.459+0800	info	testing/testing.go:1050	haha	{"uin": "june", "age": "20"}
+2021-08-20T19:58:31.459+0800	info	testing/testing.go:1050	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-20T19:58:33.070+0800	info	log/log_test.go:72	this is info log
+2021-08-20T19:58:33.070+0800	info	log/log_test.go:73	this is infof log info
+2021-08-20T19:58:33.070+0800	warn	log/log_test.go:74	this is warn log
+2021-08-20T19:58:33.070+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-20T19:58:33.070+0800	error	log/log_test.go:76	this is error log
+2021-08-20T19:58:33.070+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-20T19:58:33.070+0800	info	testing/testing.go:1050	haha	{"uin": "june", "age": "20"}
+2021-08-20T19:58:33.070+0800	info	testing/testing.go:1050	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-20T19:58:35.077+0800	info	log/log_test.go:72	this is info log
+2021-08-20T19:58:35.077+0800	info	log/log_test.go:73	this is infof log info
+2021-08-20T19:58:35.077+0800	warn	log/log_test.go:74	this is warn log
+2021-08-20T19:58:35.077+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-20T19:58:35.077+0800	error	log/log_test.go:76	this is error log
+2021-08-20T19:58:35.077+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-20T19:58:35.077+0800	info	testing/testing.go:1050	haha	{"uin": "june", "age": "20"}
+2021-08-20T19:58:35.077+0800	info	testing/testing.go:1050	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-20T19:58:36.647+0800	info	log/log_test.go:72	this is info log
+2021-08-20T19:58:36.647+0800	info	log/log_test.go:73	this is infof log info
+2021-08-20T19:58:36.647+0800	warn	log/log_test.go:74	this is warn log
+2021-08-20T19:58:36.648+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-20T19:58:36.648+0800	error	log/log_test.go:76	this is error log
+2021-08-20T19:58:36.648+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-20T19:58:36.648+0800	info	testing/testing.go:1050	haha	{"uin": "june", "age": "20"}
+2021-08-20T19:58:36.648+0800	info	testing/testing.go:1050	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-20T19:58:38.502+0800	info	log/log_test.go:72	this is info log
+2021-08-20T19:58:38.502+0800	info	log/log_test.go:73	this is infof log info
+2021-08-20T19:58:38.502+0800	warn	log/log_test.go:74	this is warn log
+2021-08-20T19:58:38.502+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-20T19:58:38.502+0800	error	log/log_test.go:76	this is error log
+2021-08-20T19:58:38.502+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-20T19:58:38.502+0800	info	testing/testing.go:1050	haha	{"uin": "june", "age": "20"}
+2021-08-20T19:58:38.502+0800	info	testing/testing.go:1050	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-21T17:02:54.824+0800	info	log/log_test.go:72	this is info log
+2021-08-21T17:02:54.825+0800	info	log/log_test.go:73	this is infof log info
+2021-08-21T17:02:54.825+0800	warn	log/log_test.go:74	this is warn log
+2021-08-21T17:02:54.825+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-21T17:02:54.825+0800	error	log/log_test.go:76	this is error log
+2021-08-21T17:02:54.825+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-21T17:02:54.825+0800	info	testing/testing.go:1050	haha	{"uin": "june", "age": "20"}
+2021-08-21T17:02:54.825+0800	info	testing/testing.go:1050	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-21T17:06:47.596+0800	info	log/log_test.go:72	this is info log
+2021-08-21T17:06:47.596+0800	info	log/log_test.go:73	this is infof log info
+2021-08-21T17:06:47.596+0800	warn	log/log_test.go:74	this is warn log
+2021-08-21T17:06:47.596+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-21T17:06:47.596+0800	error	log/log_test.go:76	this is error log
+2021-08-21T17:06:47.596+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-21T17:06:47.596+0800	info	testing/testing.go:1050	haha	{"uin": "june", "age": "20"}
+2021-08-21T17:06:47.596+0800	info	testing/testing.go:1050	work ok...	{"uin": "june", "age": "20", "gender": "male"}
+2021-08-21T17:07:03.751+0800	info	log/log_test.go:72	this is info log
+2021-08-21T17:07:03.751+0800	info	log/log_test.go:73	this is infof log info
+2021-08-21T17:07:03.751+0800	warn	log/log_test.go:74	this is warn log
+2021-08-21T17:07:03.751+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-21T17:07:03.751+0800	error	log/log_test.go:76	this is error log
+2021-08-21T17:07:03.751+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-21T17:07:27.365+0800	info	log/log_test.go:72	this is info log
+2021-08-21T17:07:27.365+0800	info	log/log_test.go:73	this is infof log info
+2021-08-21T17:07:27.365+0800	warn	log/log_test.go:74	this is warn log
+2021-08-21T17:07:27.365+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-21T17:07:27.365+0800	error	log/log_test.go:76	this is error log
+2021-08-21T17:07:27.365+0800	error	log/log_test.go:77	this is errorf log error
+2021-08-21T17:07:41.294+0800	info	log/log_test.go:72	this is info log
+2021-08-21T17:07:41.294+0800	info	log/log_test.go:73	this is infof log info
+2021-08-21T17:07:41.294+0800	warn	log/log_test.go:74	this is warn log
+2021-08-21T17:07:41.294+0800	warn	log/log_test.go:75	this is warnf log warn
+2021-08-21T17:07:41.294+0800	error	log/log_test.go:76	this is error log
+2021-08-21T17:07:41.294+0800	error	log/log_test.go:77	this is errorf log error

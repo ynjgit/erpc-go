@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package erpc.app.helloworld;
+option go_package="test/helloworld";
+
+// Greeter
+service Greeter {
+  rpc SayHello (HelloRequest) returns (HelloReply);
+  rpc SayHi (HelloRequest) returns (HelloReply);
+  rpc Sum (SumReq) returns (SumRsp);
+
+  rpc TestPanic (HelloRequest) returns (HelloReply);
+}
+
+message HelloRequest {
+  string msg = 1;
+}
+
+message HelloReply {
+  string msg = 1;
+}
+
+message SumReq {
+  int32 a = 1;
+  int32 b = 3;
+}
+
+message SumRsp {
+  int32 sum = 3;
+}

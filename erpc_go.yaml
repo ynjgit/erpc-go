@@ -1,0 +1,28 @@
+server:
+  app: app
+  server: helloworld
+  address: 127.0.0.1:5000
+  interceptors:
+    - recovery
+    - debuglog
+
+client:
+  timeout: 1000
+  interceptors:
+    - debuglog
+  remote:
+    - name: erpc.app.helloworld.Test
+      target: http://127.0.0.1:5000
+      timeout: 500
+
+log:
+  - writer: console
+    level: debug
+  - writer: file
+    level: debug
+    write_config:
+      log_path: ./logs
+	    filename: server.log
+	    max_age: 7   # max_age 
+	    max_backups: 10  # 
+	    max_size: 10 # size mb 
